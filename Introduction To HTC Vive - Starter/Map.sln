@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{46F3EA05-6CAA-3126-B91F-3F70BEEA068C}") = "Map", "Assembly-CSharp-firstpass.csproj", "{A2834F79-00EE-5FB8-31DB-47B7A6DC9612}"
+EndProject
+Project("{46F3EA05-6CAA-3126-B91F-3F70BEEA068C}") = "Map", "Assembly-CSharp-Editor-firstpass.csproj", "{D2942CF0-2007-C5BD-ADDB-1B3D947A54E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2834F79-00EE-5FB8-31DB-47B7A6DC9612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2834F79-00EE-5FB8-31DB-47B7A6DC9612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2834F79-00EE-5FB8-31DB-47B7A6DC9612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2834F79-00EE-5FB8-31DB-47B7A6DC9612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2942CF0-2007-C5BD-ADDB-1B3D947A54E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2942CF0-2007-C5BD-ADDB-1B3D947A54E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2942CF0-2007-C5BD-ADDB-1B3D947A54E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2942CF0-2007-C5BD-ADDB-1B3D947A54E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
